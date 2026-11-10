@@ -1,0 +1,6 @@
+/PortableData/
+/data/
+*.exe
+*.pdb
+/checks.txt
+/v2-*/
